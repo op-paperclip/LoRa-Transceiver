@@ -1,3 +1,4 @@
+
 # LoRa Transceiver
 
 A compact, battery-powered LoRa messaging device for sending short text messages over long distances — with Bluetooth smartphone connectivity, encrypted communication and GPS position sharing.
@@ -6,7 +7,7 @@ A compact, battery-powered LoRa messaging device for sending short text messages
 
 The video below shows the two LoRa transceivers in operation.
 
-**Demo video:** [`LoRa-Transceiver.mp4`](./assets/LoRa-Transceiver.mp4)
+https://github.com/user-attachments/assets/3ff67dd1-f243-46ad-9b80-0cc481196780
 
 ## Project overview
 
